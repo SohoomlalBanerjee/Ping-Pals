@@ -1,0 +1,18 @@
+.login__bg{
+    background-image: url(https://images.unsplash.com/photo-1506869640319-fe1a24fd76dc?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJpZW5kcyUyMHZhY2F0aW9ufGVufDB8fDB8fHww);
+    height:92vh;
+    background-position: center;
+    background-size: cover;
+    overflow-x: hidden;
+    width: 100;
+
+}
+
+.signup__bg{
+    background-image: url(https://s14354.pcdn.co/wp-content/uploads/2018/11/BlogpostNovember__0006_-TK-Rules-For-Coordinating-A-Fun-Group-Vacation.jpg);
+    height:92vh;
+    background-position: center;
+    background-size: cover;
+    overflow-x: hidden;
+    width: 100;
+}
